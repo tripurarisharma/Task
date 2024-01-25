@@ -1,0 +1,84 @@
+
+[
+    {
+        "title":"men",
+        "sub":[
+            "Tshirts",
+            "Jeans",
+            "Jackets",
+            "Shoes",
+            "Trousers",
+            "Caps"
+        ]
+    },
+    {
+        "title":"Electronics",
+        "sub":[
+            "Mobile Phones",
+            "Laptops",
+            "Dekstop",
+            "Camera",
+            "Headphones",
+            "Charger"
+        ]
+    },
+    {
+        "title":"Flights"
+       
+    },
+    {
+        "title":"baby & kids",
+        "sub":[
+            "Baby Care Essentials",
+            "Baby Guide For Parents",
+            "Toys & Games",
+            "Diaper & Nappies",
+            "Bath & Skin Care",
+            "Baby Gears"
+        ]
+    },
+    {
+        "title":"home and furniture",
+        "sub":[
+            "Kitchen Appliances",
+            "Refrigerators",
+            "Washing Machines",
+            "Microwave & Ovens",
+            "Fans & Geysers",
+            "Table & Chairs"
+        ]
+    },
+    {
+        "title":"sports,books & more",
+        "sub":[
+            "Cricket Accesories",
+            "Badminton",
+            "Stumps",
+            "Sports shoes",
+            "Books",
+            "sub category 1"
+        ]
+    },
+    {
+        "title":"Women",
+        "sub":[
+            "Ethnic Wear",
+            "Western Wear",
+            "Tshirts",
+            "Trousers",
+            "Shoes & Sandals",
+            "jeans"
+        ]
+    },
+    {
+        "title":"offerzone",
+        "sub":[
+            "sub category 1",
+            "sub category 1",
+            "sub category 1",
+            "sub category 1",
+            "sub category 1",
+            "sub category 1"
+        ]
+    }
+]
